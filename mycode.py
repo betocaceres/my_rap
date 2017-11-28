@@ -1,4 +1,4 @@
-def addition(a, b, d):
+def addition(a, b, c):
 
 # 	summation = a + b
 
