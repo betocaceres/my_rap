@@ -24,11 +24,7 @@ def subtraction(a, b):
 # 	return product
 
 
-<<<<<<< HEAD
-def myfunctionB(b):
-=======
 def myfunctionA(b):
->>>>>>> small_verses
 
     productby2 = a*2
 
