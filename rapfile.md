@@ -25,8 +25,8 @@ Little Rap 1
 Little Rap 2
 
 ## Verse 4
-Rap verse 4 line 1
-Rap verse 4 line 2
+* Rap verse 4 line 1
+* Rap verse 4 line 2
 
 ##Finish Small Verse
-Rap end
+* Rap end
