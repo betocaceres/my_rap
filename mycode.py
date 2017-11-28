@@ -21,5 +21,11 @@ def subtraction(a, b):
 # def multiplication(a, b):
 
 # 	product = a * b
-
 # 	return product
+
+
+def myfunctionB(b):
+
+    productby2 = a*2
+
+    return productby2
