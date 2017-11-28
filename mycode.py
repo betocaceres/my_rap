@@ -25,7 +25,7 @@ def subtraction(a, b):
 # 	return product
 
 
-def myfunction(a):
+def myfunctionB(b):
 
     productby2 = a*2
 
